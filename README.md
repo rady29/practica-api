@@ -4,8 +4,8 @@ Esta es una aplicación de calculadora de divisas simple desarrollada en Python 
 
 **Asignatura:** Desarrollo Web 1
 **TSU:** Desarrollo de Software de Código Abierto
-**Nombres:** Aquí van tus nombres
-**Apellidos:** Aquí van tus apellidos
+**Nombres:** Rigoberto Alexander
+**Apellidos:** Diaz Garcia
 
 ## Requisitos
 
